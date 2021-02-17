@@ -12,7 +12,7 @@
 	3. Fits a linear regression model on log of adjusted closes(for US tickers) and log of close (for Indian tickers, I could not find adjusted close for Indian tickers)
 	4. More details to write here
 
-# How to use this package?
+<!--- # How to use this package?
 	
 	1. To insall "pip install momentum_trade"
 	2. For running the code
@@ -21,4 +21,5 @@
 		3. "generate_slopes_360.main()"
 		2. If you want to save results in google spreadsheet, you need to save google spreadsheets API secret token in 'csvs_n_tokens' folder
 		3. Otherwise, results for Indian stock market are saved as "NSE.csv" and for US market - "nasdaq.csv"
+-->
 	

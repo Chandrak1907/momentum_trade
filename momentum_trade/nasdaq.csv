@@ -1,3 +1,0 @@
-symbol,to_consider,could_process,Adj_Close,AS_30,AS_90,AS_180,AS_360,Hurst,ATR_20,MA_100,position_size,Volume,close_gt_ma100,ma50_gt_ma100,max_min,AS_30_vol,AS_90_vol,AS_180_vol,AS_360_vol,Q_30,Q_90,Q_180,Q_360,Mean_4Q,Mean_3Q,Mean_Q,Q_30_vol,Q_90_vol,Q_180_vol,Q_360_vol,Mean_4Q_vol,Mean_3Q_vol,Mean_Q_vol,Mean_Final_Q,Stock_Value,sp_check
-DQ,True,True,120.22,197.11,26.8,17.44,3.64,0.83,11.99,58.13,8.0,1598562.0,True,True,3.569210353933882,-0.43,-0.01,31.62,0.14,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,961.76,False
-IBM,True,True,120.07,-0.17,0.04,0.0,-0.01,0.57,3.31,119.72,30.0,6639790.0,True,True,1.2523111343869278,-0.0,0.0,0.03,0.03,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,3602.1,False
