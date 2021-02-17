@@ -1,0 +1,13 @@
+pandas
+datetime
+pathlib
+bs4
+requests
+scipy
+numpy
+pandas_datareader
+gspread_pandas
+jupyter-book
+nsepy
+timeboard
+hurst

@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: momentum-trade
+Version: 0.1
+Summary: Package for trading using AI techniques
+Home-page: https://github.com/Chandrak1907/momentum_trade
+Author: Chandrashekar Konda
+Author-email: chandrak1907@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6

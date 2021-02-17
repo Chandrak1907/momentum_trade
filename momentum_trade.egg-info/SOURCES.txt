@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+momentum_trade/__init__.py
+momentum_trade/generate_slopes_360.py
+momentum_trade/portfolio_variables.py
+momentum_trade/process_stocks_360_pool_volume.py
+momentum_trade.egg-info/PKG-INFO
+momentum_trade.egg-info/SOURCES.txt
+momentum_trade.egg-info/dependency_links.txt
+momentum_trade.egg-info/not-zip-safe
+momentum_trade.egg-info/requires.txt
+momentum_trade.egg-info/top_level.txt

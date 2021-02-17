@@ -1,0 +1,4 @@
+PORTFOLIO_VALUE = 100000
+RISK_FACTOR = 0.001
+PAST_DURATION = 90
+spreadsheet_key = '10RaojPjpjfxPck_dRjDuec6Rea_qp8xKwL7V56oE4dg'
