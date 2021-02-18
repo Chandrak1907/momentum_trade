@@ -6,20 +6,24 @@
 
 # what does this package do?
 	
-	For tickers in US and Indian stock markets, 
-	1. This package will fetch past 90 days of daily data 
+	For all tickers in US and Indian stock markets, 
+	1. This package will fetch past 90 days of daily data. 
 	2. Store the data in csv file in a local directory (stocks_history)
 	3. Fits a linear regression model on log of adjusted closes(for US tickers) and log of close (for Indian tickers, I could not find adjusted close for Indian tickers)
-	4. More details to write here
+	4. Generates Hurst Indicator, Moving Averages etc.
+	5. Ranks stocks
+	6. Saves results to google spreadsheet(Optional)
+	Steps 1,2,3 and 4 are parallelized.
 
-<!--- # How to use this package?
+# How to use this package?
 	
-	1. To insall "pip install momentum_trade"
-	2. For running the code
-		1. Parameters in "portfolio_variables.py" need to be updated
-		2. "from momentum_trade import generate_slopes_360"
-		3. "generate_slopes_360.main()"
-		2. If you want to save results in google spreadsheet, you need to save google spreadsheets API secret token in 'csvs_n_tokens' folder
-		3. Otherwise, results for Indian stock market are saved as "NSE.csv" and for US market - "nasdaq.csv"
--->
+	1. Clone the repo - 'git clone https://github.com/Chandrak1907/momentum_trade.git'
+	2. Create and activate a virtual environment for Python
+	3. Install pip if not available
+	4. $cd momentum_trade
+	5. $pip install -e .
+	6. $cd momentum_trade
+	4. $python generate_slopes_360.py 
+
+
 	
